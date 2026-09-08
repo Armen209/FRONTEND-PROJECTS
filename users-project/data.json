@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Aram",
+      "surname": "Petrosyan",
+      "gender": "male",
+      "salary": 2500
+    },
+    {
+      "id": "2",
+      "name": "Ani",
+      "surname": "Sargsyan",
+      "gender": "female",
+      "salary": 2800
+    },
+    {
+      "id": "3",
+      "name": "David",
+      "surname": "Hakobyan",
+      "gender": "male",
+      "salary": 3200
+    },
+    {
+      "id": "4",
+      "name": "Mariam",
+      "surname": "Grigoryan",
+      "gender": "female",
+      "salary": 3000
+    },
+    {
+      "id": "5",
+      "name": "Narek",
+      "surname": "Karapetyan",
+      "gender": "male",
+      "salary": 2700
+    },
+    {
+      "id": "6",
+      "name": "Lilit",
+      "surname": "Avetisyan",
+      "gender": "female",
+      "salary": 3500
+    },
+    {
+      "id": "7",
+      "name": "Tigran",
+      "surname": "Mkrtchyan",
+      "gender": "male",
+      "salary": 4100
+    },
+    {
+      "id": "8",
+      "name": "Sona",
+      "surname": "Vardanyan",
+      "gender": "female",
+      "salary": 2900
+    },
+    {
+      "id": "9",
+      "name": "Gor",
+      "surname": "Hovhannisyan",
+      "gender": "male",
+      "salary": 3800
+    },
+    {
+      "id": "10",
+      "name": "Elena",
+      "surname": "Martirosyan",
+      "gender": "female",
+      "salary": 3300
+    },
+    {
+      "name": "Hayk",
+      "surname": "Gasparyan",
+      "gender": "male",
+      "salary": 2000,
+      "id": "KG6T-hcljrE"
+    },
+    {
+      "name": "Mary",
+      "surname": "Mosinyan",
+      "gender": "female",
+      "salary": 3450,
+      "id": "0TLDMjiu6s4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
