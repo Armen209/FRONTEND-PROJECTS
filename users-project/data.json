@@ -83,6 +83,13 @@
       "gender": "female",
       "salary": 3450,
       "id": "0TLDMjiu6s4"
+    },
+    {
+      "name": "Ashot",
+      "surname": "Grigoryan",
+      "gender": "male",
+      "salary": 2800,
+      "id": "-cOC_loub_g"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
